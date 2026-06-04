@@ -1,7 +1,7 @@
 function findMinLength(word1,word2) {
     if (word1.length < word2.length){
         return word1.length
-}   if (word1.length > word2.length) {
+}   else  {
         return word2.length
 } 
     }
